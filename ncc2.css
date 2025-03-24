@@ -270,9 +270,9 @@ p7{
 
 .history{
     background-image: url(historyofano.png);
-    background-size: cover;
+    background-size: contain;
     height: 350px;
-    width: 100%;
+    width: 99%;
     overflow-x:auto;
     overflow-y: hidden;
 }
