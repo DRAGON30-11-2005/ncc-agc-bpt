@@ -271,6 +271,7 @@ p7{
 .history{
     background-image: url(historyofano.png);
     background-size: contain;
+    background-repeat:no-repeat;
     height: 350px;
     width: 99%;
     overflow-x:auto;
